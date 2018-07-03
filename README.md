@@ -1,2 +1,2 @@
 # react-starter-pack
-react manual starter-pack
+React manual starter-pack using webpack and Babel
