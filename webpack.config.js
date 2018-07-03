@@ -6,7 +6,7 @@ const HtmlWebpackPluginConfig = new HtmlWebpackPlugin({
   inject: 'body'
 })
 module.exports = {
-  entry: './client/index.jsx',
+  entry: './client/index.js',
   output: {
     path: path.resolve(__dirname, 'production'),
     // below line only works for webpack 1.0
