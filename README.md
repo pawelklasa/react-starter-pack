@@ -4,3 +4,4 @@ React manual starter-pack using webpack and Babel
 ```
 export PATH="/usr/local/opt/node/bin:$PATH"
 ```
+https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel
